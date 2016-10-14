@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_ebbbb6325d58c72c5b003f31422b9cdacf954c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.4.0_a9a685af6e7e5283e7e2d43b189e30f3e1266ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_e27877024d713da13de82139721305424624fb15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/.gradle/caches/modules-2/files-2.1/com.adjust.sdk/adjust-android/4.10.2/a148a86b1e91134d0c3971b3ceb27c66df50a87e/adjust-android-4.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a148a86b1e91134d0c3971b3ceb27c66df50a87e">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/adjust-android-4.10.2_96556426c8aefc4d3ba75e52750c2c22f3e5fa6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_4a0fa6ca2fcdab9410e68b7c05d28b422275a534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_17d4e254fd5a5f44d7e90c18070e5a6d712275fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.4.0_604af46b9b606763a76c4a311e1dd332d07fbc3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_3b4e54f968c216dc5ab7a49c8b622f0040cdabec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_2606d2f4199c527de568944efcd2bc71440d75fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_39266053748687ef3de7477abb2d0cc5d99b102f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_b8c53b0e602110b98a59e2c692826ae5b72cf96c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Francois/Perso-Repo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/Francois/Perso-Repo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_1e85807fa37f8ecd4e29393b27f34da7ca7ceb6b.jar" />
+    </item>
+
+</items>
